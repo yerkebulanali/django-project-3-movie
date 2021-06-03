@@ -1,1 +1,1 @@
-# django-project-2
+# django-project-3-movie
