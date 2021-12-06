@@ -9,8 +9,6 @@
 __pycache__/
 local_settings.py
 prod_settings.py
-gunicorn.conf.py
-movie.conf
 media
 
 ### Linux ###
